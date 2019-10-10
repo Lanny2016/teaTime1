@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24757192126",
+    "firebase_url": "https://teatime-4d1b3.firebaseio.com",
+    "project_id": "teatime-4d1b3",
+    "storage_bucket": "teatime-4d1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24757192126:android:618ece1730b9d30bcb25ef",
+        "android_client_info": {
+          "package_name": "com.example.teatime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24757192126-dii83shjcfnrr7d7b54fk7u8eqm4nuch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teatime",
+            "certificate_hash": "4733bd58e4f8d4a59b10b7bbe7ad822cfa331625"
+          }
+        },
+        {
+          "client_id": "24757192126-80fe45p04kmfark0nsvrklo7kp7gki2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHCO4utECFch-3F7LjCcroQTGxh6hSAoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24757192126-80fe45p04kmfark0nsvrklo7kp7gki2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
